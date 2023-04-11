@@ -15,7 +15,8 @@ content_blocks:
     description: >-
       Changes should be synced with GitHub. Note, this is a **public fork** of
       the original repo.
-    image: /images/hero/hero-image-2.png
+    image: >-
+      /uploads/constellate-smooth-flat-abstract-oil-painting-of-a-plaza-with-p-37db1b67-9a34-449c-a306-4cf4d35d3778.png
     image_alt: Reports dashboard
     button:
       text: Try This Free
