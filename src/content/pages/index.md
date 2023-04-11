@@ -14,7 +14,7 @@ content_blocks:
     title: This is a test of CloudCannon + Astro
     description: >-
       Changes should be synced with GitHub. Note, this is a **public fork** of
-      the original repo. Editor waz here 2023.
+      the original repo. Editor waz here 2023 lol.
     image: >-
       /uploads/constellate-smooth-flat-abstract-oil-painting-of-a-plaza-with-p-37db1b67-9a34-449c-a306-4cf4d35d3778.png
     image_alt: Reports dashboard
