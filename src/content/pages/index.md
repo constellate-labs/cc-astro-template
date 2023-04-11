@@ -19,7 +19,7 @@ content_blocks:
       /uploads/constellate-smooth-flat-abstract-oil-painting-of-a-plaza-with-p-37db1b67-9a34-449c-a306-4cf4d35d3778.png
     image_alt: Reports dashboard
     button:
-      text: Try This Free
+      text: Editor was here.
       link: /signup/
   - _bookshop_name: global/counter
     title: Scale your
