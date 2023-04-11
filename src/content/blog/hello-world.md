@@ -1,5 +1,6 @@
 ---
-date: 2023-04-11T00:00:00Z
+_schema: default
+date: 2023-04-10T00:00:00Z
 title: Hello world, from GitHub
 tags:
   - blog
@@ -19,7 +20,6 @@ seo:
   open_graph_type: article
   no_index: false
 ---
-
 Something something.
 
 # Here's a heading
