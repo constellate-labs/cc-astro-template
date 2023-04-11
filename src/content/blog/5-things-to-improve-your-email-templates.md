@@ -1,10 +1,10 @@
 ---
-date: 2022-06-10T00:00:00Z
-title: 5 things to improve your email templates
+date: 2023-04-10T00:00:00Z
+title: This article change came from GitHub
 tags:
   - marketing
   - blog
-author: Aaron Britt
+author: mk
 thumb_image:
   image: /images/blog/blog-thumb-6.jpg
   image_alt: People working on laptops and looking at charts
@@ -21,7 +21,7 @@ seo:
   no_index: false
 ---
 
-When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers' spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.
+Something something. When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers' spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.
 
 ### Use an ESP
 
