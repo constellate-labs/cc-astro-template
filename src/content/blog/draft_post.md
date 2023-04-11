@@ -24,6 +24,7 @@ Something something.
 
 # Here's a heading
 
-- One
-- Two
-- Three
+* One
+* Two
+* Three
+* Four
